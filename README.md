@@ -4,7 +4,7 @@
 
 # Goal was to explore relationships among certain features from the data
 
-# Reduced my data to only included what was needed, cleaned, structured and formatted it apporopriately.
+# Reduced my data to only includ what was needed, cleaned, structured and formatted it apporopriately.
 - boxplots and histplots to check distributions
 - log transfrom to spread out skewed data and reduce the impact of outliers
   
