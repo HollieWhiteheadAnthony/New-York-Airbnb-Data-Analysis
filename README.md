@@ -2,7 +2,7 @@
 
 Exploratory data analysis of New York Airbnb listings using Python, Pandas, and data visualization to examine pricing patterns across neighborhoods and room types.
 
-[Airbnb price analysis](airbnb-price-analysis.png)
+![Airbnb price analysis](airbnb-price-analysis.png)
 
 ## Project Goal
 
