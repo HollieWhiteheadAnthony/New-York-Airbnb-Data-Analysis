@@ -52,4 +52,4 @@ These findings suggested that location and accommodation type were more useful f
 
 A short PowerPoint presentation was also created to summarize the analysis process, findings, and personal reflection.
 
-[View the full project presentaion](airbnb_analysis_presentation.pptx
+[View the full project presentaion](airbnb_analysis_presentation.pptx)
